@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My First Post on Jekyll
-tag: first markdown example
+title: My First Jekyll Post
+tags: first markdown example
 categories: demo
 ---
 
