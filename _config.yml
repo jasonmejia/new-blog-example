@@ -1,0 +1,9 @@
+# Site settings
+title: Jason Mejia Blog
+author:
+  name: Jason Mejia
+  email: jasonvicentemejia@gmail.com
+description: "Jason Activities"
+
+# Build settings
+remote_theme: jekyll/minima
