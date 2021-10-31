@@ -6,18 +6,23 @@ categories: demo
 ---
 
 This is a paragraph in my second post.
-Show off your Markdown!
+In Markdown, adding an image looks similar to a link. 
 
 ![alt text is white cat](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/480px-VAN_CAT.png)
 
 I found this [Cat image on Wikimedia](https://commons.wikimedia.org/wiki/File:VAN_CAT.png).
 
------------------
+Horizontal rule:
 
-> Block quote.
+--------------
+
+> A block quote.
 > Is like this.
 
-Tables look like:
-| header | column1 | column2 |
+A table:
+
+| header | column a | column b |
 | --- | --- | --- |
-| dog | 3 | 4 |
+| dogs | 3 | 6 |
+| cats | 3 | 6 |
+| muffins | 15 | 30 |
