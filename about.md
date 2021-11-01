@@ -1,10 +1,10 @@
 ---
 layout: dark
 title: About
-example: "Example text in this variable."
+example: This is an example value.
 ---
 
-This page describes the amazin {{ site.title }} by {{ site.author.name }}.
+This page describes the amazing {{ site.title }} by {{ site.author.name }}.
 {{ page.example }}
 
 {% include big-cat.html %}
