@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: home 
 ---
 
-Welcome to my Blog 
+Welcome to my new blog!
