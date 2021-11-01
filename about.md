@@ -1,15 +1,9 @@
 ---
-layout: dark
+layout: page
 title: About
-example: This is an example value.
 ---
 
 Some Markdown content describing your site.
-
-This page describes the amazing {{ site.title }} by {{ site.author.name }}.
-{{ page.example }}
-
-
 
 ## About About Pages
 
